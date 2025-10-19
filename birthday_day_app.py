@@ -81,3 +81,4 @@ if st.button("Explore Birthday"):
         
     except Exception as e:
         st.error(f"Error: {e}")
+
